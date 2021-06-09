@@ -941,10 +941,10 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/app-menu@file:./modules/app-menu/":
+"@modules/articles@file:./modules/articles":
   version "1.0.0"
 
-"@modules/articles@file:./modules/articles":
+"@modules/articles@file:./modules/articles/":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1-alpha.1":
