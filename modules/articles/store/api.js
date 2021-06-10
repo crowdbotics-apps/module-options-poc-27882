@@ -2,7 +2,7 @@ import axios from "axios"
 
 const articlesAPI = axios.create({
   // baseURL: "https://module-options-poc-27882.botics.co/modules/articles/",
-  baseURL: "https://5gdtltkps0.execute-api.us-east-2.amazonaws.com/modules/articles",
+  baseURL: "https://calw6hqflh.execute-api.us-east-2.amazonaws.com/prod/modules/articles",
   headers: {
     Accept: "application/json",
     "Content-Type": "application/json"
